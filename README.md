@@ -238,13 +238,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vite** for the lightning-fast build tool
 - **SQLAlchemy** for the powerful ORM
 
-## 📞 Support
 
-For support and questions:
-- Create an issue in the GitHub repository
-- Check the API documentation at `/docs` endpoint
-- Review the backend and frontend README files
-
----
-
-**Built with ❤️ using modern web technologies**
